@@ -1,0 +1,9 @@
+- prebaciti kontrolu na axis
+- da li postaviti dodatni collider oko peska, koji ce biti za exit/enter odnos
+- svima podesi rigidbody collision na continuous
+- za unistenje tenka ucitati efekat iz projekta
+- CFXVirus za smrt
+- efekti pri odbitku
+- skloni iTween
+- da li ubaciti tween u ubrzanje i audio
+- da li ukljuciti Time.deltaTime u kretanje?

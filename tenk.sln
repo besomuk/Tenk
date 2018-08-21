@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenk", "Assembly-CSharp.csproj", "{61317F06-D0ED-EFEF-4093-45DBC642311D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenk", "Assembly-CSharp-firstpass.csproj", "{BE52FBE1-2671-E3D5-F145-07676281F590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenk", "Assembly-CSharp-Editor.csproj", "{3BA2F226-74FB-41E7-E67A-4316DAF3CE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61317F06-D0ED-EFEF-4093-45DBC642311D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61317F06-D0ED-EFEF-4093-45DBC642311D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61317F06-D0ED-EFEF-4093-45DBC642311D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61317F06-D0ED-EFEF-4093-45DBC642311D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE52FBE1-2671-E3D5-F145-07676281F590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE52FBE1-2671-E3D5-F145-07676281F590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE52FBE1-2671-E3D5-F145-07676281F590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE52FBE1-2671-E3D5-F145-07676281F590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA2F226-74FB-41E7-E67A-4316DAF3CE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA2F226-74FB-41E7-E67A-4316DAF3CE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA2F226-74FB-41E7-E67A-4316DAF3CE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA2F226-74FB-41E7-E67A-4316DAF3CE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

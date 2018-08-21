@@ -1,0 +1,5 @@
+Za pravljenje povrsina....
+
+1) Napraviti povrsinu i staviti je u jedan GO.
+2) Dati joj odgovarajuci Collider i oznaciti ga Trigerom
+3) Dati joj odgovarajuci TAG

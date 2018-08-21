@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Granica
+  - Bullet
+  - Enemy
+  - PreprekaOdbitak
+  - PreprekaKill
+  - ProtoBullet
+  - ProtoBulletExplosion
+  - BulletExplosion
+  - FxTemporaire
+  - Surface_Sand
+  - Surface_Grass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arena
+    uniqueID: 1658682459
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2692328469
+    locked: 0
+  - name: Tenk
+    uniqueID: 3870580625
+    locked: 0
+  - name: Bullets
+    uniqueID: 3729974641
+    locked: 0
+  - name: Bridge
+    uniqueID: 4024732935
+    locked: 0
+  - name: ParticleExploz
+    uniqueID: 3255797939
+    locked: 0
